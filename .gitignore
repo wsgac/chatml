@@ -1,0 +1,14 @@
+# 
+# paths
+# 
+
+bin/
+
+# 
+# files
+# 
+
+src/*.cmi
+src/*.cmx
+src/*.o
+
